@@ -1,4 +1,7 @@
-﻿using System;
+﻿using Algo.LeetCode.Binary;
+using Algo.LeetCode.Math;
+using System;
+using System.Linq;
 
 namespace Algo
 {
@@ -6,7 +9,8 @@ namespace Algo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            AddBinary67 binary = new AddBinary67();
+            binary.AddBinary("1111", "1111");
         }
     }
 }

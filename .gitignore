@@ -338,3 +338,5 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/Algo/Codility/Toptal.cs
+/Algo/LeetCode/Math/PlusOne66.cs
